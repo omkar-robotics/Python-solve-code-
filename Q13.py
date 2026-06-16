@@ -1,5 +1,5 @@
 '''
-Question 14: Write a java program to check whether a number is palindrome or not.
+Question 14: Write a python program to check whether a number is palindrome or not.
 Input:
 
 Number = 121
